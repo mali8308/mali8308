@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali
 - 👀 I’m interested in longevity research and computational biology
-- 🌱 I’m currently learning what genes play an important role in aging
+- 🌱 I’m currently analyzing large datasets to understand which genes can potentially play an important role in aging
 - 💞️ I’m looking to collaborate on computational projects around aging research 
 - 📫 How to reach me: ma8308@nyu.edu
 - 😄 Pronouns: he/him
