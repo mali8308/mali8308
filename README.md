@@ -9,7 +9,7 @@ My end-goal is to _end_ "end" goals; life does not have to be limited by biology
 ---
 
 ### 🚀 What I'm working on
-- **Developing biological aging clock**: predicting age correctly is the first step to understanding aging. 
+- **Developing biological aging clocks**: predicting age correctly is the first step to understanding aging. 
 - **Analyzing large-scale multi-omics datasets to find genetic targets**: the answers are out there somewhere; we just need to look hard enough (or in the right places). 
 
 ---
