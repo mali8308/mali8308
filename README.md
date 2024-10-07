@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ali!
+# 👋🏻 Hello, I'm Ali!
 
 🌟 **Fulbright Scholar** | **Computational Aging Researcher** | **Graduate Student @ NYU** 
 
