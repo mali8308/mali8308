@@ -1,5 +1,5 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fnew-york-university-logo%2F&psig=AOvVaw1tbSNbWWzoYnGgcAO16GUG&ust=1728357084899000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi4p4Om-4gDFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/4ca708af-4a54-4c4a-b625-f444ac77d212)
 
+![NYU-Logo](https://github.com/user-attachments/assets/0c99ef67-62fa-4144-a9fa-7e631570c27f)
 
 # 👋 Hello, I'm Ali!
 
