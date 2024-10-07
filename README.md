@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Ali!
 
 🌟 **Fulbright Scholar** | **Computational Aging Researcher** | **Graduate Student @ NYU** 
----
 
 I'm deeply invested in unraveling the thread - or rather breaking the shackles - of aging through computational biology. While most people's idea of a fun time is enjoying a light-hearted sitcom on Netflix, mine is finding a new dataset, going on RStudio, and running my scripts to see if I unconver some new mysteries of aging! 
 
