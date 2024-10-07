@@ -36,8 +36,7 @@ My end-goal is to _end_ "end" goals; life does not have to be limited by biology
   - R, Python, MySQL, Linux (HPCC)
 - **Genomics:**
   - NGS data analysis (bulk RNA-seq, ChIP-seq, miRNAs), single-cell omics and integration, GSEA, pathways enrichment and ontology analysis, network analysis, and survival analysis.
-  - **Genomic Tools:**
-  - BWA-mem, Bowtie, Hisat2, STAR, Kallisto, SAMtools, BAMTools, featurecounts, DESeq2, GATK, ANNOVAR, plink, bcftools, peakfinder, picard, seqMiner, BEDtool, macs2, Seurat, gprofiler2, DEVID, cellranger, cytoscape.
+  - **Genomic Tools:** BWA-mem, Bowtie, Hisat2, STAR, Kallisto, SAMtools, BAMTools, featurecounts, DESeq2, GATK, ANNOVAR, plink, bcftools, peakfinder, picard, seqMiner, BEDtool, macs2, Seurat, gprofiler2, DEVID, cellranger, cytoscape.
 - **Machine Learning and Biostatistics:**
   - Feature selection, ML/DL model building and optimization using cross-validation and regularization, for regression and classification models.
   - **ML/DL tools:** R, R-CART, H2O, regression, Bayesian, Python-sklearn, TensorFlow, Keras, PyTorch
