@@ -22,7 +22,8 @@ My end-goal is to end "end" goals; life does not have to be limited by biology -
 - **NUST Best Researcher Award (Rector's Gold Medal)**
 
 ### 💡 Skills
-- **Molecular Biology**: epigenetics, nuclear biology, gene-regulation, epigenetic aging, metabolism. 
+- **Molecular Biology**:
+  - Epigenetics, nuclear biology, gene-regulation, epigenetic aging, metabolism. 
 - **Programming:**
   - R, Python, MySQL, Linux (HPCC)
 - **Genomics:**
