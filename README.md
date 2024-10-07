@@ -52,7 +52,9 @@ My end-goal is to _end_ "end" goals; life does not have to be limited by biology
 
 ---
 
-⚡ Fun fact: When I'm not analyzing genomes, you might find me jumping out of a plane from 10,000 feet up in the air 🛩️
+### ⚡ Fun Fact 
+- When I'm not analyzing genomes, you might find me jumping out of a plane from 10,000 feet up in the air 🛩️
+- Or I might be playing with my cat 🐈‍⬛
 
 
 <!---
