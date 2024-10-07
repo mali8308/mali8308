@@ -4,16 +4,16 @@
 
 I'm deeply invested in unraveling the thread - or rather breaking the shackles - of aging through computational biology. While most people's idea of a fun time is enjoying a light-hearted sitcom on Netflix, mine is finding a new dataset, going on RStudio, and running my scripts to see if I unconver some new mysteries of aging! 
 
-My end-goal is to end "end" goals; life does not have to be limited by biology - or at least it certainly should not be. 
+My end-goal is to _end_ "end" goals; life does not have to be limited by biology - or at least it certainly should not be. 
 
 ### 🚀 What I'm working on
 - **Developing biological aging clock**: predicting age correctly is the first step to understanding aging. 
-- **Analyzing large-scale multi-omics datasets**: the answers are out there somewhere; we just need to look hard enough (or in the right places). 
+- **Analyzing large-scale multi-omics datasets to find genetic targets**: the answers are out there somewhere; we just need to look hard enough (or in the right places). 
   
 ### 🔬 Research interests
+- **Epigenetic aging** 
 - **Computational genomics of aging** 
 - **Machine learning for genomics** 
-- **Epigenetic aging** 
 
 ### 🏆 Achievements
 - **Fulbright Scholarship**
