@@ -1,5 +1,7 @@
 
-![NYU-Logo](https://github.com/user-attachments/assets/0c99ef67-62fa-4144-a9fa-7e631570c27f)
+
+<img src="https://github.com/user-attachments/assets/0c99ef67-62fa-4144-a9fa-7e631570c27f" alt="NYU-Logo" width="200"/>
+
 
 # 👋 Hello, I'm Ali!
 
