@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ali!
 
----
+___
 🌟 **Fulbright Scholar** | **Computational Aging Researcher** | **Graduate Student @ NYU** 
 ---
 
