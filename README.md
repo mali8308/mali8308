@@ -30,18 +30,12 @@ My end-goal is to _end_ "end" goals; life does not have to be limited by biology
 ---
 
 ### 💡 Skills
-- **Molecular Biology**:
-  - Epigenetics, nuclear biology, gene-regulation, epigenetic aging, metabolism. 
-- **Programming:**
-  - R, Python, MySQL, Linux (HPCC)
-- **Genomics:**
-  - NGS data analysis (bulk RNA-seq, ChIP-seq, miRNAs), single-cell omics and integration, GSEA, pathways enrichment and ontology analysis, network analysis, and survival analysis.
-  - **Genomic Tools:** BWA-mem, Bowtie, Hisat2, STAR, Kallisto, SAMtools, BAMTools, featurecounts, DESeq2, GATK, ANNOVAR, plink, bcftools, peakfinder, picard, seqMiner, BEDtool, macs2, Seurat, gprofiler2, DEVID, cellranger, cytoscape.
-- **Machine Learning and Biostatistics:**
-  - Feature selection, ML/DL model building and optimization using cross-validation and regularization, for regression and classification models.
-  - **ML/DL tools:** R, R-CART, H2O, regression, Bayesian, Python-sklearn, TensorFlow, Keras, PyTorch
-- **Network Biology:** 
-  - Protein-Protein Interaction network, Protein-microRNA interaction, Centrality calculation, Co-expression network (WGCNA), Cytoscape.
+-	**Molecular Biology**: Epigenetic Aging, Age Prediction, Nuclear Biology, Gene Regulation, Metabolism
+- **Programming Languages**: R, Python, MySQL, Linux (HPCC)
+- **Genomics**: Bulk RNA-seq, single-cell RNA-seq, RNA velocity, ChIP-seq, DNA methylation, functional analysis (ontology and set enrichment analysis), chromatin accessibility, immune receptor profiling, CITE-seq, spatial transcriptomics, variant calling, splicing analysis. 
+- **Machine Learning & Biostatistics**: Feature selection, hyperparameter tuning, bootstrapping & cross-validation, regularization, predictive modeling (advanced), statistical analysis, data mining, deep learning.
+- **Network Biology**: Protein-Protein Interaction, Cytoscape, Drug-Gene Interaction.
+- **Wet Lab Skills**: Yeast two-hybrid (Y2H), transformations, Gateway Clonase system, domain cloning, gel electrophoresis, bisulphite conversion, pyrosequencing, DNA extraction and quantification 
 
 ---
 
