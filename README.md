@@ -2,9 +2,9 @@
 
 🌟 **Fulbright Scholar** | **Computational Aging Researcher** | **Graduate Student @ NYU** 
 
-I'm deeply invested in unraveling the thread - or rather breaking the shackles - of aging through computational biology. While most people's idea of a fun time is enjoying a light-hearted sitcom on Netflix, mine is finding a new dataset, going on RStudio, and running my scripts to see if I unconver some new mysteries of aging! 
+I'm deeply invested in unraveling the thread - or rather breaking the shackles - of aging through computational biology. While most people's idea of a fun time is enjoying a light-hearted sitcom on Netflix, mine is finding a new dataset, going on RStudio, and running my scripts to see if I can uncover some new mysteries of aging! 
 
-My end-goal is to _end_ "end" goals; life does not have to be limited by biology - or at least it certainly should not be ♾️
+The end goal is to _end_ "end" goals; life does not have to be limited by biology - or at least it certainly should not be ♾️
 
 ---
 
@@ -27,6 +27,7 @@ My end-goal is to _end_ "end" goals; life does not have to be limited by biology
 - **NYU Biology Master’s Research Grant**
 - **NYU Wasserman Center Internship Grant**
 - **NUST Best Researcher Award (Rector's Gold Medal)**
+- **Top-rated on Upwork**
 
 ---
 
@@ -36,13 +37,14 @@ My end-goal is to _end_ "end" goals; life does not have to be limited by biology
 - **Genomics**: Bulk RNA-seq, single-cell RNA-seq, RNA velocity, ChIP-seq, DNA methylation, functional analysis (ontology and set enrichment analysis), chromatin accessibility, immune receptor profiling, CITE-seq, spatial transcriptomics, variant calling, splicing analysis. 
 - **Machine Learning & Biostatistics**: Feature selection, hyperparameter tuning, bootstrapping & cross-validation, regularization, predictive modeling (advanced), statistical analysis, data mining, deep learning.
 - **Network Biology**: Protein-Protein Interaction, Cytoscape, Drug-Gene Interaction.
-- **Wet Lab Skills**: Yeast two-hybrid (Y2H), transformations, Gateway Clonase system, domain cloning, gel electrophoresis, bisulphite conversion, pyrosequencing, DNA extraction and quantification 
+- **Wet Lab Skills**: Yeast two-hybrid (Y2H), transformations, Gateway Clonase system, domain cloning, gel electrophoresis, bisulfite conversion, pyrosequencing, DNA extraction and quantification 
 
 ---
 
 ### 💬 Let's connect!
 - **Email:** <ma8308@nyu.edu>
 - **LinkedIn:** [linkedin.com/in/muhammadali710](https://linkedin.com/in/muhammadali710)
+- **Upwork**: https://www.upwork.com/freelancers/muhammadali320
 
 ---
 
