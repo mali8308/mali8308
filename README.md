@@ -25,6 +25,7 @@ My end-goal is to _end_ "end" goals; life does not have to be limited by biology
 - **Fulbright Scholarship**
 - **NYU GSAS Full Tuition Scholarship**
 - **NYU Biology Master’s Research Grant**
+- **NYU Wasserman Center Internship Grant**
 - **NUST Best Researcher Award (Rector's Gold Medal)**
 
 ---
