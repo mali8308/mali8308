@@ -27,7 +27,7 @@ The end goal is to _end_ "end" goals; life does not have to be limited by biolog
 - **NYU Biology Master’s Research Grant**
 - **NYU Wasserman Center Internship Grant**
 - **NUST Best Researcher Award (Rector's Gold Medal)**
-- **Top-rated on Upwork**
+- **Top-rated on *Upwork***
 
 ---
 
