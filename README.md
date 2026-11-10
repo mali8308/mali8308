@@ -15,9 +15,9 @@ The end goal is to _end_ "end" goals; life does not have to be limited by biolog
 ---
  
 ### 🔬 Research interests
-- **Epigenetic aging** 
-- **Computational genomics of aging** 
-- **Machine learning for genomics** 
+- **MLxBio for Aging** 
+- **Target ID & GRN inference** 
+- **Cross-species Translation** 
 
 ---
 
